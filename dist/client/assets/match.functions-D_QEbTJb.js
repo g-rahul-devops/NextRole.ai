@@ -1,1 +1,0 @@
-import{d as e,y as t}from"./skeleton-deHQ9ugK.js";import{s as n}from"./index-C-6Tnfn1.js";var r=t({method:`POST`}).middleware([e]).handler(n(`a54e268432ca3903da159ad56a9d26e9356703954856b303a785ac5df3626374`)),i=t({method:`POST`}).middleware([e]).handler(n(`01e0915b7cea1b43e783468f6d8fc7bbf1a9cde4d824ffe1acd2f134966f4b86`));export{r as n,i as t};

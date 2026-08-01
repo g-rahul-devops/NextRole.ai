@@ -1,1 +1,0 @@
-import{r as e,t}from"./jsx-runtime-CEnj1x2X.js";e();var n=t();function r({value:e=0,...t}){return(0,n.jsx)(`div`,{...t,style:{width:`100%`,background:`#334155`,borderRadius:999,overflow:`hidden`},children:(0,n.jsx)(`div`,{style:{width:`${Math.max(0,Math.min(100,e))}%`,height:8,background:`#38bdf8`}})})}export{r as t};
