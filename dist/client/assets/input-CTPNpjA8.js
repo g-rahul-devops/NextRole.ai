@@ -1,0 +1,1 @@
+import{r as e,t}from"./jsx-runtime-CEnj1x2X.js";e();var n=t();function r({className:e,...t}){return(0,n.jsx)(`input`,{className:[`auth-input`,e].filter(Boolean).join(` `),...t})}export{r as t};

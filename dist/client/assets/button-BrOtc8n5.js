@@ -1,0 +1,1 @@
+import{a as e,r as t,t as n}from"./jsx-runtime-CEnj1x2X.js";var r=e(t()),i=n();function a({children:e,asChild:t=!1,variant:n=`default`,size:a,className:o,style:s,...c}){let l={className:[`button`,`button-${n}`,a?`button-${a}`:``,o].filter(Boolean).join(` `),style:s};return t&&r.isValidElement(e)?r.cloneElement(e,l):(0,i.jsx)(`button`,{...c,...l,children:e})}export{a as t};
